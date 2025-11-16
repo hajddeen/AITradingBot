@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\adidr\OneDrive\Pulpit\AI Trading Bot\ai_trading_env"
+VIRTUAL_ENV="C:\Users\adidr\OneDrive\Pulpit\AITradingBot\ai_trading_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
